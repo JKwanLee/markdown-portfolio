@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- Appliance control optimization using DRL 😃
+- DL-based vision applications ✨
